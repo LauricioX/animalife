@@ -4,6 +4,8 @@
           <h2>Estamos sem pre de braços abertos para acolher qualquer animal</h2>
           <button>
               doar
+
+              <!--o  problema é aqui esse texto acima nao esta aparecendo -->
           </button>
      </span>
 
