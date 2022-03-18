@@ -3,8 +3,9 @@
     <NavbarLeft />
     <div class="container__doador">
       <h1>pagina de doador</h1>
-      <Griddoador/>
+       <Griddoador/>
     </div>
+   
   </div>
 </template>
 

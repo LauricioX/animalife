@@ -6,9 +6,16 @@
               doar
           </button>
      </span>
+
+     <h3>teste</h3>
     </div>
 </template>
 <script>
+
+import '../../public/style/style.scss'
+import '../../public/style/donor/style.scss'
+
+
 export default {
     name:"gridDoador"
 }
